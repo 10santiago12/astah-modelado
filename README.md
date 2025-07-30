@@ -6,8 +6,9 @@ Taller diagramas con Astah UML
 
 # Ejemplo Consultorio médico:
 
-(Citas.png)
+![Consultorio](imágenes/Citas.png)
+
 
 # Ejemplo Concesionaria:
 
-(Concesionaria.png)
+![Concesionaria](imágenes/Concesionaria.png)
